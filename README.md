@@ -1,1 +1,1 @@
-<h1 style="text-align: center; font-size: 32px;">Hi, I'm Moc</h1>
+<h1 align="center">Hi, I'm Moc</h1>
