@@ -6,4 +6,4 @@
 
 <br>
 
-<p align="center"> If you want to discuss a project or an idea, you can reach out to me at dev.moc@proton.me</p>
+<p align="center"> If you want to discuss a project or an idea, you can reach out to me at devmoc.contact@proton.me</p>
